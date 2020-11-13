@@ -1,3 +1,3 @@
 # Tea shop
 
-Ik heb deze website gemaakt om CSS Flexbox en Grid te oefenen.
+Ik heb deze website gemaakt om CSS Flexbox, Grid en responsive design te oefenen.
